@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;1,400&family=Nunito:wght@200&display=swap');
+.text-center{
+  text-align: center;
+/*     font-family: 'Lora', serif; */
+  font-family: 'Nunito', sans-serif;
+}
+.bg-red{
+  background: red;
+}
+.mx-auto{
+/*   max-width: 20vw; */
+  margin: auto;
+}
+.flex{
+  display: flex;
+}
+.flex-col{
+  flex-direction: column;
+}
+.align-items{
+  align-items: center;
+}
+/* .Button{
+  padding: 20px;
+}
+ */
